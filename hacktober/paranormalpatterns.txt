@@ -1,0 +1,77 @@
+Challenge 1 (1 pt): 1 2 3 4 _   [answer: 5]
+
+Challenge 2 (2 pts): Z Y X W V _   [answer: U]
+
+Challenge 3 (3 pts): 30 33 36 39 _   [answer: 42]
+
+Challenge 4 (4 pts): 2 4 8 16 _   [answer: 32]
+
+Challenge 5 (5 pts): 1 10 11 101 _   [answer: 110]
+
+Challenge 6 (8 pts): 12 13 14 15 _   [answer: 20]
+
+Challenge 7 (12 pts): 2 3 5 7 11 _  [answer: 13]
+
+Challenge 8 (16 pts): 06 07 08 09 _   [answer: 0A]
+
+Challenge 9 (20 pts): 1 1 2 3 5 _ _ _ [answer: 8 13 21]
+
+Challenge 10 (25 pts): B E I N _ _   [answer: T A]
+
+Challenge 11 (30 pts): C C G G A _ _   [answer: A G]
+
+Challenge 12 (32 pts): 22 29 30 37 _ _   [answer: 3E 45]
+
+Challenge 13 (35 pts): R O Y G _ _ _ (answer: B I V)
+
+Challenge 14 (40 pts): 1194 11F8 125C 12C0 _ _   [answer: 1324 1388]
+
+Challenge 15 (45 pts): 68 70 76 94 48 10 _ _   [answer: 96 54]
+
+Challenge 16 (50 pts): MCLXIII, MCLXXX, MCXCIII, MCCIV, _ _   [answer: MCCXI MCCXVI]
+
+Challenge 17 (60 pts): 10 C 13 D 17 F 23 I _   [answer: 32]
+
+Challenge 18 (67 pts): 67 _ _ _   [answer: 67 67 67]
+
+Challenge 19 (70 pts): 50 100 54 95 59 91 63 86 _ _ _ _   [answer: 68 82 72 77]
+
+Challenge 20 (80 pts): 04 66 73 82 68 06 89 69 76 76 79 87 0A 82 69 80 76 73 67 65 84 79 82
+
+Challenge 21 (100 pts): 2328 2968 28B8 2E48 2D98 3278 _ _   [answer: 31C8 35F8]
+
+2328 + 640 = 2968
+2968 - B0 = 28B8
+640 - B0 = 590
+28B8 + 590 = 2E48
+2E48 - B0 = 2D98
+590 - B0 = 4E0
+2D98 + 4E0 = 3278
+3278 - b0 = 31C8
+4E0 - B0 = 430
+31c8 + 430 = 35f8
+
+Challenge 22 (120 pts): ♈ ♊ ♍ ♒ _    [answer: ♙]
+
+Challenge 23 (140 pts): 1742860800 1745539200 1748131200 1750809600 _   [answer: 1753401600]
+
+Challenge 24 (150 pts): 23 1C 41 100110 43 30 65 111010 _ _ _ _ [answer: 63 44 111 1001110]
+
+Challenge 25 (200 pts):
+
+
+Challenge 25 (200 pts):
+C: 00 a0 00 33 0e 77 68 6f 20 67 6f 65 73 20 74 68 65 72 65
+S: 00 60 00 a0 0a 61 20 74 72 61 76 65 6c 65 72
+C: 00 aa 00 60 0d 70 72 6f 76 65 20 69 74 20 74 68 65 6e
+S: 00 6d 00 aa 10 69 20 63 61 72 72 79 20 6e 6f 20 70 72 6f 6f 66
+C: ⬜ ⬜ ⬜ ⬜ ⬜ 74 68 65 6e 20 62 65 20 67 6f 6e 65
+[answer: 00 ba 00 6d 0c]
+
+Challenge 26 (250 pts):
+△ ○ ✕ ▢
+△ ○ △ ✕ ○ △ ▢ ▢ ✕ ▢ ✕ △ ▢ ✕ ○ _ _ _   [answer: ○ △ ○]
+
+Challenge 27 (300 pts): #101404 #101E06 #202E0A #30440E #506016 #80821A _ _   [answer: #D0AA22 #50D826]
+
+Challenge 28
