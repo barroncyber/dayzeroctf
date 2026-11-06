@@ -1,0 +1,25 @@
+Challenge 1 (3 pts): In bear.jpg, there is a flag hidden directly in the image at the bottom right.  [answer: DZCTF{Forest_King}]
+
+Challenge 2 (8 pts): In G8GXP.jpg, there is a flag hidden directly in the image, in the grass next to the car. This time, it's encoded as a Base64 string.  [answer: DZCTF{Woah_Sick_Car_Dude}]
+
+Challenge 3 (15 pts): In pingu.jpg, there is a flag hidden directly in the penguin's shadow. This one is especially hard to see, but changing the colors and filters on the photo can reveal it.   [answer: DZCTF{Just_A_Chill_Guy}]
+
+Challenge 4 (20 pts): In wakemeupwhentheresaflag.gif, there is a flag hidden directly in frame #24 of the gif. Use a splitter tool to view that particular frame   [answer: DZCTF{CAUGHT_LACKIN}]
+
+Challenge 5 (25 pts): In parrot.jpg, there is a flag hidden in the strings of the file. Using the strings tool will reveal it.   [answer: DZCTF{I_Have_Something_To_Say}]
+
+Challenge 6 (35 pts): In patrick.png, there is a flag hidden in the EXIF metadata, under the Comment field.   [answer: DZCTF{My_Mind_Is_An_Enigma}]
+
+Challenge 7 (50 pts): In loremipsum.jpg, there is a flag hidden in the strings of the file, this time encoded with Latin Gibberish.   [answer: DZCTF{VENI_VIDI_VICI}]
+
+Challenge 8 (70 pts): In Emberfall Keep.docx, there is a text flag hidden directly in the document, in white font. If you open it in word or LibreOffice, the red squiggly lines may give it away, and you can copy and paste it.   [answer: DZCTF{REAPER_OF_WARRENS}]
+
+Challenge 9 (100 pts): In fruit.png, there is an LSB-encoded flag in the red field. Use zsteg to recover.   [answer: DZCTF{MMMM_COTTON_CANDY_GRAPES}]
+
+Challenge 10 (125 pts): In bob.png, there is a flag hidden in the EXIF metadata, under the Comment field. This time, it's been gzipped, then base64 encoded.   [answer: DZCTF{No_Way_To_Get_Home}]
+
+Challenge 11 (200 pts): Docx file containing images within with the flag is hidden, uses techniques from previous problems.
+
+Challenge 12 (400 pts): QRazyBox QRCode reconstruction problem
+
+NEED A QR CODE RECONSTRuCtION PROBLEM (QRazyBox)
